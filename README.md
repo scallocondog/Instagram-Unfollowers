@@ -1,7 +1,5 @@
 # Instagram Unfollowers
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2023)](https://github.com/davidarroyo1234/InstagramUnfollowers)
-
 A nifty tool that lets you see who doesn't follow you back on Instagram.  
 <u>Browser-based and requires no downloads or installations!</u>
 
