@@ -13,7 +13,7 @@ This version utilizes the Instagram API for better performance.
 
 1.  Copy the following code from this url. (This has been moved to this site, because the repository was taking too long to load with so many characters.The web site only shows the compiled and minified code. )
 
-### https://scallocondog.github.io/InstagramUnfollowers/
+### https://scallocondog.github.io
 
 2. Press the COPY button to copy the code.
 
