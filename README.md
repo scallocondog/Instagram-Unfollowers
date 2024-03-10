@@ -17,19 +17,19 @@ This version utilizes the Instagram API for better performance.
 
 2. Press the COPY button to copy the code.
 
-    <img src="./assets/copy_code.png" alt="Initial screen" />
+
 
 3. Once you have copied the code, you can close this page and go to the instagram website
 4. Log in into your account and open the developer console or (Ctrl+Shift+J(Windows) || ⌘+⌥+I (Mac os)) and paste the code.
 
 5. You will be met with the following interface:
 
- <img src="./assets/initial.png" alt="Initial screen" />
+
 
 6. Click "RUN" to start scanning for users who do not follow you back.
 7. Once it finishes printing the users, you will be met with the following screen which will show you the results:
 
- <img src="./assets/results.png" alt="Results screen" />
+
 
 8. If you wish to un-follow any of these users, you can select 1 or more of them via the checkbox next to each user.
 
